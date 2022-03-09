@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["console","log","b"],"mappings":";AAAAA,QAAQC,IAAI,QACZ,IAAIC,EAAI,CACRA,KAAS","file":"src.916231d2.js","sourceRoot":"..","sourcesContent":["console.log(\"sddd\");\nlet b = {};\nb.name = \"ffff\";\n"]}
